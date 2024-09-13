@@ -34,4 +34,5 @@ public class Main {
 	public static int warizan(int number1, int number2) {
 		return number1 / number2;
 	}
+
 }
